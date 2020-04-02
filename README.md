@@ -39,5 +39,5 @@ Las ventas pueden ser en efectivo o con tarjeta. En el caso que sea con tarjeta,
 * Saber el tipo de una prenda (saco, pantalón, camisa)
 
 ## Diagrama de Clases
-![diagramaDeClases](https://github.com/NicoCollazo/Macowins/macowins_diagramaDeClases.png)
+![diagramaDeClases](macowins_diagramaDeClases.png)
 
